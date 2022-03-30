@@ -3,7 +3,7 @@ package com.scott;
 import java.util.Arrays;
 
 /**
- * 短视频
+ * 短视频类
  */
 public class ShortVideo {
 
