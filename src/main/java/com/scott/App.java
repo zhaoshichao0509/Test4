@@ -15,7 +15,7 @@ public class App
         shortVideo.setBriefIntroduction("国漫巅峰之作，评分超高");
         String topics[] = new String[]{"#斗罗大陆","#斗罗大陆唐三小舞"};
         shortVideo.setTopics(topics);
-        shortVideo.setMountMiniApp(Boolean.FALSE);
+        shortVideo.setMountMiniApp(Boolean.TRUE);
         System.out.println(shortVideo);
     }
 }
