@@ -10,7 +10,7 @@ public class App
     {
         ShortVideo shortVideo = new ShortVideo();
         shortVideo.setVideoId(1L);
-        shortVideo.setTitle("《斗罗大陆2》唐三小舞");
+        shortVideo.setTitle("《斗罗大陆3》唐三小舞");
         shortVideo.setVideoUrl("https://www.baidu.com");
         shortVideo.setBriefIntroduction("国漫巅峰之作，评分超高");
         String topics[] = new String[]{"#斗罗大陆","#斗罗大陆唐三小舞"};
