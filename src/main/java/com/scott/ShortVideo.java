@@ -97,7 +97,6 @@ public class ShortVideo {
                 ", coverUrl='" + coverUrl + '\'' +
                 ", videoUrl='" + videoUrl + '\'' +
                 ", mountMiniApp=" + mountMiniApp +
-                ", miniAppUrl='" + miniAppUrl + '\'' +
                 '}';
     }
 }
